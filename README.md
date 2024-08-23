@@ -7,7 +7,7 @@ Install modul nodejs
 ```sh
 git clone https://github.com/AdjiDev/wabot-polosan && cd wabot-polosan && npm install qrcode-terminal @whiskeysockets/baileys yargs awesome-phonenumber
 ```
-- **LANGKAH 2*
+- **LANGKAH 2**
 Tutorial cara nyambung ke wangsaff
 
 # VERSI 1 [ connect ke panel ]
