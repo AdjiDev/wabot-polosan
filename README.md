@@ -5,7 +5,7 @@ Bot polosan (starterpack) buat para sepuh developer
 - **Langkah 1**
 Install modul nodejs
 ```sh
-git clone https://github.com/AdjiDev/wabot-polosan && cd wabot-polosan && npm install qrcode-terminal @whiskeysockets/baileys yargs awesome-phonenumber
+git clone https://github.com/AdjiDev/wabot-polosan && cd wabot-polosan && npm install
 ```
 - **LANGKAH 2**
 Tutorial cara nyambung ke wangsaff
